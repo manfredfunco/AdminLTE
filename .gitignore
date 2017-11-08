@@ -9,3 +9,10 @@
 ad.js
 TODO
 test.html
+packages/
+AdminLTEDemo/obj/
+AdminLTEDemo/bin/
+*.user
+.vs/
+obj/
+bin/
